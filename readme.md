@@ -7,10 +7,10 @@
 Se puede usar por consola, solo debes usar el archivo query.py para solo parametros, y interprete.py para parametro o interprete(depende de si le pasas parametro o no).
 <pre>
 	<codes>
-		echo activamos la consola.
-		py interprete.py
-		echo usamos las opciones por parametros.
-		py interprete.py --abrir-cuenta Nombre Apellido Cedula contraseña 1000000monto
+echo activamos la consola.
+py interprete.py
+echo usamos las opciones por parametros.
+py interprete.py --abrir-cuenta Nombre Apellido Cedula contraseña 1000000monto
 	</codes>
 </pre>
 
@@ -28,8 +28,9 @@ Para compilarlo yo uso el siguiente comando dentro de la carpeta source: <codes>
 ## Objetivo:
 <p>
 	Cree este programa con solucion a una tarea que me pusieron donde requeria lo siguiente(Resumi lo que dice la tarea):
+	
 	> Crear un programa para administrar cuentas bancarias de la manera mas intuitiva, ofreciendo las opciones basicas:
-	<ul>
+<ul>
 	<li>Crear cuenta.</li>
 	<li>Cerrar cuenta.</li>
 	<li>Depositar.</li>
@@ -40,7 +41,9 @@ Para compilarlo yo uso el siguiente comando dentro de la carpeta source: <codes>
 	<li>Reporte General(Donde se enseña informacion basica de todas las cuentas).</li>
 	</ul>
 </p>
+
 ## Registros:
+
 <p>
 	Todas la informacion se almacena en la carpeta ./query/ en la ubicacion que se encuentra el programa.<br/>
 	Se almacena en la carpeta archivos de texto plano para que los administradores puedan verificar todo facilmente.
