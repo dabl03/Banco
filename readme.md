@@ -8,9 +8,9 @@ Se puede usar por consola, solo debes usar el archivo query.py para solo paramet
 <pre>
 	<codes>
 echo activamos la consola.
-py interprete.py
+python3 interprete.py
 echo usamos las opciones por parametros.
-py interprete.py --abrir-cuenta Nombre Apellido Cedula contraseña 1000000monto
+python3 interprete.py --abrir-cuenta Nombre Apellido Cedula contraseña 1000000monto
 	</codes>
 </pre>
 
